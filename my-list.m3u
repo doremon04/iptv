@@ -49,6 +49,12 @@ https://s2.animeweb.xyz/media/video-clips/anime2/02-2021/Overlord-ss1/22/Overlor
 #------
 #Phim lẻ
 #Sonic 1
+#EXTINF:-1 tvg-id="sonic1" tvg-name="Sonic" group-title="Phim lẻ" tvg-logo="https://d29fhpw069ctt2.cloudfront.net/icon/image/37769/preview.svg",Sonic 1
 https://hls-prx1.meoani.net/hls/ad56494ec23aafcd9a9e61a463e002e9.m3u8?type=hls
-
+#Venom 1
+#EXTINF:-1 tvg-id="venom1" tvg-name="Venom" group-title="Phim lẻ" tvg-logo="https://d29fhpw069ctt2.cloudfront.net/icon/image/37769/preview.svg",Venom 1
+https://hls.streamphim.xyz/m3u8/35620fd8-f2ba-5dda-bea3-68e2e2e2d5be
+#Venom 2
+#EXTINF:-1 tvg-id="venom2" tvg-name="Venom 2" group-title="Phim lẻ" tvg-logo="https://d29fhpw069ctt2.cloudfront.net/icon/image/37769/preview.svg",Venom 2
+https://i-cdn-0.awsindstream.com/content/stream/indfilms/Venom.Let.There.Be.Carnage.2021.1080p.WEBRip.VNM.DUB.1XBET.mp4
 
